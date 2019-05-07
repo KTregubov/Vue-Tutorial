@@ -1,4 +1,4 @@
-# Vue-Tutorial Assets
+# Vue-Tutorial
 ### Full finished code for Part 1 of the project
 The following branch contains the finished code that should be written by completing my tutorial on [Becoming proficient in building full stack web apps with Vue.js](https://medium.com/@KirillTregubov/becoming-proficient-in-vue-js-part-one-a2e122d1b9e8)
 
